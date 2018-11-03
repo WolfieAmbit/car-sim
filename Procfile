@@ -1,1 +1,1 @@
-web: node /T3/index.html
+web: node ./T3/index.html
